@@ -38,8 +38,6 @@ for files in L_files:
                  f_out.write(li) 
           
       
-#def open_obj(filename):
-#  f = open(filename, "r")
-#    return 
-
+ 
+f_in.close()
 f_out.close()
